@@ -58,8 +58,6 @@
    Ensure the `.env` file is present in the same directory as `Medicoed-backend.py` with the required variables, such as:
 
    ```env
-   DATABASE_URL=<your-database-url>
    GEMINI_API_KEY=<your-api-key>
-   DEBUG=True
    ```
 
